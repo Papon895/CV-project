@@ -1,0 +1,172 @@
+body {
+   margin: 0;
+   padding: 0;
+   background: lightgrey;
+   font-family: Sans-Serif;
+}
+.border {
+   border: 1px solid black;
+   margin: 10px ;
+   
+}
+.border-1 {
+   border-bottom: 1px solid black;
+   margin: 15px 0;
+   
+}
+/*=======common style start======*/
+.container {
+   width: 90%;
+   margin: 0 auto;
+   background: #e4f9f5;
+   padding: 10px 10px ;
+   
+}
+h1,h3,h2,h4,h6 {
+   margin: 0;
+   color: #11999e;
+}
+p {
+   color: orange;
+   
+}
+a {
+   color: tomato;
+   text-decoration: none;
+   font-size: 13px;
+}
+a:hover {
+   text-decoration: underline;
+}
+/*=======common style start======*/
+
+      /*==========header start===========*/
+      
+header {
+   overflow: hidden;
+   padding:10px 0 5px 0;
+}
+h1:first-letter {
+   font-size: 50px;
+   color: tomato;
+}
+.header-left {
+
+}
+.image {
+   float: left;
+}
+.header-bio {
+   float: left;
+   padding: 40px 0 0 15px;
+}
+.header-left img {
+   width: 120px;
+   border: 2px solid grey;
+   border-radius: 50%;
+   height: 150px;
+}
+.header-right {
+   float: right;
+   color: #11999e;
+   margin: 40px 0 0 0;
+}
+.header-right a {
+   color: #11999e;
+   text-decoration: none;
+   font-size: 14px;
+   display: inline-block;
+   font-weight: bold;
+}
+.header-right p{
+   margin: 0;
+    font-size: 13px;
+}
+      /*==========header end===========*/
+      
+      /*========main area start==========*/
+.main {
+   overflow: hidden;
+}
+.lorem-1 {
+   float: right;
+   color: orange;
+   
+}
+.information {
+   float: left;
+   margin-top: 15px;
+}
+.content-1 {
+   overflow: hidden;
+}
+.work {
+   float: left;
+   margin-top: ;
+}
+.content-2 h3 {
+   margin-top: 15px;
+}
+.lorem-2 p{
+   margin: 0;
+}
+.lorem-2 {
+   margin-top: -20px;
+   overflow: hidden;
+}
+.lorem-3 p{
+   margin: 0;
+}
+.lorem-3 {
+   margin-top: 15px;
+   margin-bottom: 10px;
+}
+.content-2 {
+   overflow: hidden;
+}
+.work-side-1 {
+   float: right;
+}
+.content-3 {
+   overflow: hidden;
+   
+}
+.lorem-4 {
+   color: orange;
+   
+}
+.lorem-4 ul {
+   margin: 0 0 0 -22px;
+}
+.key-side-1 {
+   float: right;
+   margin: 15px 0 16px 0;
+   
+}
+.key-skill {
+   margin: 15px 0 0 0;
+   float: left;
+}
+.education {
+   float: left;
+}
+.edu-part-1 {
+   float: right;
+   margin-left: -20px ;
+   
+}
+.edu-part-1 p,
+.edu-part-2 p {
+   margin: 0;
+}
+.edu-part-2 {
+   float: right;
+   
+}
+.edu-site {
+   float: right;
+}
+.edu-site p {
+   
+}
+      /*========main area end==========*/
